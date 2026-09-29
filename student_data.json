@@ -1,0 +1,47 @@
+{
+    "student": {
+        "name": "Ansh"
+    },
+    "subjects": [
+        {
+            "name": "maths",
+            "exam_date": "08-10-2026",
+            "difficulty": 3,
+            "progress": 50.0
+        },
+        {
+            "name": "english",
+            "exam_date": "06-10-2026",
+            "difficulty": 2,
+            "progress": 35.0
+        },
+        {
+            "name": "chy",
+            "exam_date": "05-10-2026",
+            "difficulty": 2,
+            "progress": 40.0
+        }
+    ],
+    "study_history": [
+        {
+            "date": "27-09-2026",
+            "subject": "english",
+            "minutes": 50
+        },
+        {
+            "date": "27-09-2026",
+            "subject": "chy",
+            "minutes": 20
+        },
+        {
+            "date": "27-09-2026",
+            "subject": "maths",
+            "minutes": 30
+        },
+        {
+            "date": "27-09-2026",
+            "subject": "english",
+            "minutes": 46
+        }
+    ]
+}
